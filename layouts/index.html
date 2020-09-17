@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ range .Data.blog.Pages }}
+{{ range (where .Site.RegularPages "Section" "blog")}}
 {{ .Render "post" }}
 {{ end }}
 
