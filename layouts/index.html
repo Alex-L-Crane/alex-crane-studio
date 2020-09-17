@@ -1,6 +1,14 @@
 {{ define "main" }}
 
-<article class="post-20 page type-page status-publish has-post-thumbnail hentry" id="post-20">
+{{ define "main" }}
+
+{{ range .Data.Pages }}
+{{ .Render "post" }}
+{{ end }}
+
+{{ end }}
+
+<!--<article class="post-20 page type-page status-publish has-post-thumbnail hentry" id="post-20">
   {{ with .Site.Params.banner.heading }}
   <header class="entry-header has-text-align-center header-footer-group">
     <div class="entry-header-inner section-inner medium">
@@ -62,7 +70,7 @@
       {{ end }}
       {{ end }}
 
-      
+
       {{ if .Site.Params.gallery.enable }}
       {{ with .Site.Params.gallery }}
       <figure class="wp-block-gallery alignwide columns-2 is-cropped">
@@ -77,7 +85,7 @@
       {{ end }}
       {{ end }}
     </div><!-- .entry-content -->
-  </div><!-- .post-inner -->
-</article>
+  <!--</div>--><!-- .post-inner -->
+<!--</article>-->
 
 {{ end }}
