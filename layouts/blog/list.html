@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ range .Data.Pages }}
+{{ range .Data.Pages.ByDate }}
 {{ .Render "post" }}
 {{ end }}
 
