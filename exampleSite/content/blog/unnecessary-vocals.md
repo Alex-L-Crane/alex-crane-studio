@@ -13,7 +13,7 @@ title = "Unnecessary Vocals"
 
 <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="[https://soundcloud.com/dissonantdreamland](https://soundcloud.com/dissonantdreamland "https://soundcloud.com/dissonantdreamland")" title="TCA (The Cruelest Animal)" target="_blank" style="color: #cccccc; text-decoration: none;">TCA (The Cruelest Animal)</a> · <a href="[https://soundcloud.com/dissonantdreamland/unnecessary-vocals](https://soundcloud.com/dissonantdreamland/unnecessary-vocals "https://soundcloud.com/dissonantdreamland/unnecessary-vocals")" title="Unnecessary Vocals" target="_blank" style="color: #cccccc; text-decoration: none;">Unnecessary Vocals</a></div>
 
-I composed this short piece for my Music Theory I class at [LCC](https://www.lanecc.edu/perarts/music "LCC") as my final project for the fall term of 2020. I set out with two simple goals:
+I composed this short piece for my Music Theory I class at <a href="[https://www.lanecc.edu/perarts/music](https://www.lanecc.edu/perarts/music "https://www.lanecc.edu/perarts/music")" target="_blank">LCC</a> as my final project for the fall term of 2020. I set out with two simple goals:
 
 1\. I wanted to piano to be the central instrument in the piece since this is my first year studying piano
 
