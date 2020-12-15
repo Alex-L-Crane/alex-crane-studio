@@ -3,7 +3,6 @@ author = []
 categories = []
 date = 2020-12-14T08:00:00Z
 description = ""
-draft = true
 image = "/uploads/unnecessary-vocals-cover.jpg"
 imagecaption = ""
 tags = []
